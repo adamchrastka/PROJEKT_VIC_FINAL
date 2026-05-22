@@ -1,3 +1,6 @@
+Povedly se mi velmi špatný věci s tím udělat tak jsem radši smazal celý repozitář, protože to github nechtěl přechřoupat. 
+
+
 Puvodni slozka na projekt: https://github.com/adamchrastka/projekt_1
 presunul jsem to kvuli xampp, abych mohl zaroven mit zapnute veci v hodinach a zaroven projekt a nemusel nic predelavat ve slozkach.
 
