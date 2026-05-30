@@ -18,6 +18,13 @@ Tady budu psát poznámky k projektu.
 Webová aplikace napsaná v PHP, HTML a CSS
 Běží na XAMPP, nebo na webu
 
+Co tento projekt řeší?
+Projekt je navržen jako záznamový a informační systém pro žáky a instruktory autoškoly.
+
+
+Struktura souborů
+<img width="424" height="622" alt="obrazek" src="https://github.com/user-attachments/assets/f0440c17-93c9-4100-8521-c2bc12e110fe" />
+
 Spusteni
 
 1. Spustit XAMPP (Apache + MySQL)
@@ -58,8 +65,19 @@ Uživatelé vidí pouze tabulky s vozidly, jízdami a instruktory.
 Administrátoři vidí tabulky s vozidly, jízdami atd. a u nich také
 možnost smazat či upravit danou část.
 
-
+Funkce
+Instruktoři (admin) mohou přidávat / odebírat / upravovat jednotlivé věci v závislosti na stránce kde právě jsou.
+Studenti (user) si mohou zobrazit tabulky s pro ně užitečnými informacemi
 PREHLED STRANEK
+
+Ukázky stránek
+LOGIN
+<img width="2559" height="1466" alt="obrazek" src="https://github.com/user-attachments/assets/a1e3c647-1843-400b-8c14-0ad63a95b548" />
+Admin panel
+<img width="2559" height="1473" alt="obrazek" src="https://github.com/user-attachments/assets/b6942d90-2733-4077-8f96-55f27fd55d91" />
+Uživatelská stránka
+<img width="2559" height="1471" alt="obrazek" src="https://github.com/user-attachments/assets/fda0a017-fd87-4e97-a413-0b75b586a093" />
+
 
 
 index.php       přihlašovací stránka
