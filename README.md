@@ -1,4 +1,4 @@
-Povedly se mi velmi špatný věci s tím udělat tak jsem radši smazal celý repozitář, protože to github nechtěl přechřoupat. 
+Povedly se mi velmi špatný věci s tím udělat tak jsem radši smazal celý repozitář, protože to github nechtěl zpracovat. 
 
 
 Puvodni slozka na projekt: https://github.com/adamchrastka/projekt_1
@@ -16,7 +16,7 @@ Autor: Adam Chrastka
 Tady budu psát poznámky k projektu.
 
 Webová aplikace napsaná v PHP, HTML a CSS
-Běží na XAMPP
+Běží na XAMPP, nebo na webu
 
 Spusteni
 
@@ -45,6 +45,7 @@ Pokud by došlo ke změně, tak bude student zmatený a databáze taky.
 
 Při smazání studenta, instruktora nebo vozidla se automaticky smažou
 i všechny jejich jízdy.
+<img width="1296" height="1023" alt="obrazek" src="https://github.com/user-attachments/assets/f79e59dd-f681-4d2a-9de0-86dca7cc27bc" />
 
 
 ROLE A OPRAVNENI
